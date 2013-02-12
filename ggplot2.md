@@ -1,4 +1,4 @@
-gnuR
+ggplot2
 ====
 
 Basic plotting

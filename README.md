@@ -1,6 +1,10 @@
 gnuR
 ====
 
-helpful random code snippets are to be found in Plotting.md
+helpful random code snippets 
+
+ggplot2.md --> contains exemplary plots
+
+
 
 
