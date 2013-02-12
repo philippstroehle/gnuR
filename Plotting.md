@@ -5,6 +5,8 @@ Basic plotting
 --------------
 Includes a nice theme and showcases some often-used possibilities of ggplot2 
 
+### Legend Positioning
+
 
 ```r
 a = c(1, 2, 3)
@@ -26,7 +28,31 @@ p = p + geom_point(aes(x = a, y = b, size = a))
 print(p)
 ```
 
-![plot of chunk test](figure/test.png) 
+![plot of chunk test](figure/test1.png) 
+
+```r
+
+p = p + theme(legend.position = c(0.5, 0.5))
+print(p)
+```
+
+![plot of chunk test](figure/test2.png) 
+
+```r
+
+p = p + theme(legend.position = "top")
+print(p)
+```
+
+![plot of chunk test](figure/test3.png) 
+
+```r
+
+p = p + theme(legend.position = "bottom")
+print(p)
+```
+
+![plot of chunk test](figure/test4.png) 
 
 
 
