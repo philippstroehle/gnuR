@@ -7,6 +7,10 @@ ggplot2.md --> contains exemplary plots
 
 Literature to get started in R
 ---
+
+IDE - Integrated Development Environment
+* http://rstudio.org --> today's quasi standard
+
 General introduction 
 * http://www.slideshare.net/izahn/rintro --> includes IO, plotting and regression
 * http://freakonometrics.free.fr/IFM2-slides-1.pdf --> all sorts of commands one should know
