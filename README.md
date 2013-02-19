@@ -29,6 +29,7 @@ Nice to know
 Plotting in ggplot2
 * http://ggplot2.org/
 * http://docs.ggplot2.org/current/
+* http://www.ceb-institute.org/bbs/wp-content/uploads/2011/09/handout_ggplot2.pdf --> cheat sheet
 
 
 
