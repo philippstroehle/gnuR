@@ -15,6 +15,7 @@ General introduction
 * http://www.slideshare.net/izahn/rintro --> includes IO, plotting and regression
 * http://freakonometrics.free.fr/IFM2-slides-1.pdf --> all sorts of commands one should know
 * http://tryr.codeschool.com/
+* [German] http://wwwold-m4.ma.tum.de/software/EinfuehrungR_Ferienkurs09.pdf
 
 Nice to know
 * http://blog.yhathq.com/posts/10-R-packages-I-wish-I-knew-about-earlier.html --> title says it all
