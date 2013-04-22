@@ -16,6 +16,7 @@ General introduction
 * http://freakonometrics.free.fr/IFM2-slides-1.pdf --> all sorts of commands one should know
 * http://tryr.codeschool.com/
 * [German] http://wwwold-m4.ma.tum.de/software/EinfuehrungR_Ferienkurs09.pdf
+* [German] http://www.heise.de/developer/artikel/Datenanalyse-mit-R-Teil-1-1845278.html
 
 Nice to know
 * http://blog.yhathq.com/posts/10-R-packages-I-wish-I-knew-about-earlier.html --> title says it all
