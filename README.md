@@ -26,6 +26,7 @@ Nice to know
 * http://www.inside-r.org/ is often intersting
 * http://www.cookbook-r.com/ --> lots of examples
 * http://www.r-bloggers.com/ --> new content every day, nice to get ideas on potential R applications
+* http://blog.revolutionanalytics.com/2013/04/coursera-data-analysis-course-videos.html
 
 
 Plotting in ggplot2
