@@ -33,7 +33,10 @@ Plotting in ggplot2
 * http://ggplot2.org/
 * http://docs.ggplot2.org/current/
 * http://www.ceb-institute.org/bbs/wp-content/uploads/2011/09/handout_ggplot2.pdf --> cheat sheet
-* http://inundata.org/2013/04/10/a-quick-introduction-to-ggplot2/ - a nice presentation introducing ggplot2
+* http://inundata.org/2013/04/10/a-quick-introduction-to-ggplot2/ 
+** a nice presentation introducing ggplot2, includes the basics of plyr and reshape packages (the author calls them the swiss army knife of R)
+** includes a lot more than just the basics, all code is accompanied by the corresponding figures
+
 
 
 
