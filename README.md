@@ -8,6 +8,7 @@ Personal archive
 - [Plotting](ggplot2.md) contains exemplary plots using (mostly ggplot2 by [Hadley Wickham] (http://had.co.nz/))
 - [Reshaping data](reshape.md) will contain examples of data reshaping
 - [Plyring](plyr.md) will contain examples that are concerned with slicing, dicing and aggregating data.
+- [Forecasting](forecast.md) will contain examples on how to forecast given training data a.k.a. historic knowledge, using the excellent forecasting package by [Rob J. Hyndman](http://robjhyndman.com/)
 
 Introductory material
 ---
