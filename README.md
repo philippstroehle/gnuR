@@ -15,12 +15,15 @@ General introduction
 * http://cran.r-project.org/doc/manuals/R-intro.pdf
 * http://data.princeton.edu/R/
 * http://en.wikibooks.org/wiki/R_Programming
+* http://tryr.codeschool.com/ Interactive introduction from codeschool
+* [German] http://www.heise.de/developer/artikel/Datenanalyse-mit-R-Teil-1-1845278.html Heise article part 1
+
+Intermediate material
 * http://www-stat.stanford.edu/~susan/courses/s141/RNotes.pdf Overview of most important built-in functions
 * http://www.slideshare.net/izahn/rintro --> includes IO, plotting and regression
 * http://freakonometrics.free.fr/IFM2-slides-1.pdf --> all sorts of commands one should know
-* http://tryr.codeschool.com/
-* [German] http://wwwold-m4.ma.tum.de/software/EinfuehrungR_Ferienkurs09.pdf
-* [German] http://www.heise.de/developer/artikel/Datenanalyse-mit-R-Teil-1-1845278.html
+* [German] http://wwwold-m4.ma.tum.de/software/EinfuehrungR_Ferienkurs09.pdf from the Technical University of Munich
+* [German] http://www.heise.de/developer/artikel/Datenanalyse-mit-R-Teil-2-1847554.html Heise article part 2
 
 Nice to know
 * http://blog.yhathq.com/posts/10-R-packages-I-wish-I-knew-about-earlier.html --> title says it all
