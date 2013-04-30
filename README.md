@@ -14,7 +14,8 @@ IDE - Integrated Development Environment
 General introduction
 * http://cran.r-project.org/doc/manuals/R-intro.pdf
 * http://data.princeton.edu/R/
-* http://www-stat.stanford.edu/~susan/courses/s141/RNotes.pdf
+* http://en.wikibooks.org/wiki/R_Programming
+* http://www-stat.stanford.edu/~susan/courses/s141/RNotes.pdf Overview of most important built-in functions
 * http://www.slideshare.net/izahn/rintro --> includes IO, plotting and regression
 * http://freakonometrics.free.fr/IFM2-slides-1.pdf --> all sorts of commands one should know
 * http://tryr.codeschool.com/
