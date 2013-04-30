@@ -16,10 +16,10 @@ Introductory material
 * http://rstudio.org --> today's quasi standard
 
 ### General introduction
+* http://tryr.codeschool.com/ Interactive introduction from codeschool
 * http://cran.r-project.org/doc/manuals/R-intro.pdf
 * http://data.princeton.edu/R/
 * http://en.wikibooks.org/wiki/R_Programming
-* http://tryr.codeschool.com/ Interactive introduction from codeschool
 * [German] http://www.heise.de/developer/artikel/Datenanalyse-mit-R-Teil-1-1845278.html Heise article part 1
 
 ### Intermediate material
