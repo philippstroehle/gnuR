@@ -1,31 +1,35 @@
 gnuR
 ====
+This page contains information about getting started in gnu R. 
 
-helpful random code snippets 
-
-ggplot2.md --> contains exemplary plots
-
-Literature to get started in R
+Personal archive
 ---
 
-IDE - Integrated Development Environment
+- [Plotting](ggplot2.md) contains exemplary plots using (mostly ggplot2 by [Hadley Wickham] (http://had.co.nz/))
+- [Reshaping data](reshape.md) will contain examples of data reshaping
+- [Plyring](plyr.md) will contain examples that are concerned with slicing, dicing and aggregating data.
+
+Introductory material
+---
+
+### IDE - Integrated Development Environment
 * http://rstudio.org --> today's quasi standard
 
-General introduction
+### General introduction
 * http://cran.r-project.org/doc/manuals/R-intro.pdf
 * http://data.princeton.edu/R/
 * http://en.wikibooks.org/wiki/R_Programming
 * http://tryr.codeschool.com/ Interactive introduction from codeschool
 * [German] http://www.heise.de/developer/artikel/Datenanalyse-mit-R-Teil-1-1845278.html Heise article part 1
 
-Intermediate material
+### Intermediate material
 * http://www-stat.stanford.edu/~susan/courses/s141/RNotes.pdf Overview of most important built-in functions
 * http://www.slideshare.net/izahn/rintro --> includes IO, plotting and regression
 * http://freakonometrics.free.fr/IFM2-slides-1.pdf --> all sorts of commands one should know
 * [German] http://wwwold-m4.ma.tum.de/software/EinfuehrungR_Ferienkurs09.pdf from the Technical University of Munich
 * [German] http://www.heise.de/developer/artikel/Datenanalyse-mit-R-Teil-2-1847554.html Heise article part 2
 
-Nice to know
+### Nice to know
 * http://blog.yhathq.com/posts/10-R-packages-I-wish-I-knew-about-earlier.html --> title says it all
 * http://de.wikibooks.org/wiki/GNU_R 
 * http://en.wikibooks.org/wiki/R_Programming --> the same and more in English
@@ -36,13 +40,6 @@ Nice to know
 * http://blog.revolutionanalytics.com/2013/04/coursera-data-analysis-course-videos.html
 
 
-Plotting in ggplot2
-* http://ggplot2.org/
-* http://docs.ggplot2.org/current/
-* http://www.ceb-institute.org/bbs/wp-content/uploads/2011/09/handout_ggplot2.pdf --> cheat sheet
-* http://inundata.org/2013/04/10/a-quick-introduction-to-ggplot2/ 
-** a nice presentation introducing ggplot2, includes the basics of plyr and reshape packages (the author calls them the swiss army knife of R)
-** includes a lot more than just the basics, all code is accompanied by the corresponding figures
 
 
 
