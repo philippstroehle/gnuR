@@ -1,6 +1,7 @@
 gnuR
 ====
-This page contains information about getting started in gnu R. 
+This page contains information about getting started in gnu R.
+
 
 Personal archive
 ---
