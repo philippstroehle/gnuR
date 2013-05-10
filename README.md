@@ -10,6 +10,7 @@ Personal archive
 - [Reshaping data](reshape.md) will contain examples of data reshaping
 - [Plyring](plyr.md) will contain examples that are concerned with slicing, dicing and aggregating data.
 - [Forecasting](forecast.md) will contain examples on how to forecast given training data a.k.a. historic knowledge, using the excellent forecasting package by [Rob J. Hyndman](http://robjhyndman.com/)
+- [Tables](tables.md) will contain table examples
 
 Introductory material
 ---
