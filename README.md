@@ -42,7 +42,8 @@ Introductory material
 * http://www.r-bloggers.com/ --> new content every day, nice to get ideas on potential R applications
 * http://blog.revolutionanalytics.com/2013/04/coursera-data-analysis-course-videos.html
 
-
+### Other authors recommendations
+* 
 
 
 
