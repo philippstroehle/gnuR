@@ -43,13 +43,9 @@ Introductory material
 * http://blog.revolutionanalytics.com/2013/04/coursera-data-analysis-course-videos.html
 
 ### Other authors recommendations
-<<<<<<< HEAD
 * http://www.datamind.org/#/courses/1 - an introductory course to R
 * http://www.computerworld.com/s/article/9239799/60_R_resources_to_improve_your_data_skills - a List of R resources by Sharon Machlis
-=======
-* http://www.datamind.org/#/courses/1
-* http://www.computerworld.com/s/article/9239799/60_R_resources_to_improve_your_data_skills
->>>>>>> e488bd57268f7e4f6c4aaf00b26a96a791cd8b46
+
 
 
 
