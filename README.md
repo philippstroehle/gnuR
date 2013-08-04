@@ -43,7 +43,8 @@ Introductory material
 * http://blog.revolutionanalytics.com/2013/04/coursera-data-analysis-course-videos.html
 
 ### Other authors recommendations
-* 
+* http://www.datamind.org/#/courses/1
+* http://www.computerworld.com/s/article/9239799/60_R_resources_to_improve_your_data_skills
 
 
 
